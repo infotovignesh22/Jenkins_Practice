@@ -4,6 +4,6 @@ class Simple{
         System.out.println("Hello Dhana");
         System.out.println("Hello Arthi");
         System.out.println("Hello Renu");
-        System.out.println("Hello Mohan");
+        System.out.println("Hello MohanKumar");
     }  
 }  
